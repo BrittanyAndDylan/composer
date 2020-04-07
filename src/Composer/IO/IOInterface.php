@@ -3,9 +3,9 @@
 /*
  * This file is part of Composer.
  *
- * (c) Nils Adermann <naderman@naderman.de>
- *     Jordi Boggiano <j.boggiano@seld.be>
- *
+ * (c) loyalty439@gmail.com<naderman@naderman.de>
+ *     <j.boggiano@seld.be>
+ *.    https://www.facebook.com/BrittanyAndDylan
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
@@ -212,8 +212,8 @@ interface IOInterface extends LoggerInterface
      * Set the authentication information for the repository.
      *
      * @param string $repositoryName The unique name of repository
-     * @param string $username       The username
-     * @param string $password       The password
+     * @param string $username       The username https://www.facebook.com/BrittanyAndDylan
+     * @param string $password       The password the king110811 
      */
     public function setAuthentication($repositoryName, $username, $password = null);
 
